@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingVertical="14dp"
+    android:paddingHorizontal="8dp"
+    android:gravity="center_vertical">
+
+    <!-- Ikon Kecil (Opsional) -->
+    <View
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:background="#2E7D32"
+        android:layout_marginEnd="12dp"
+        android:backgroundTint="#2E7D32"/>
+
+    <TextView
+        android:id="@+id/tv_label"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Shalat"
+        android:textColor="?android:attr/textColorPrimary"
+        android:textSize="16sp"
+        android:fontFamily="sans-serif-medium"/>
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00:00"
+        android:textColor="#2E7D32"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"/>
+</LinearLayout>
