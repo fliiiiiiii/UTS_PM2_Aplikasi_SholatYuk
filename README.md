@@ -59,3 +59,9 @@ SholatYuk merupakan aplikasi Android yang dirancang untuk mengetahui jadwal shol
 Aplikasi ini menyediakan fitur mulai dari pilih bahasa, dan Mengambil lokasi secara otomatis.
 Aplikasi ini dibuat untuk memenuhi kebutuhan tugas perkuliahan dengan menerapkan konsep Activity-based navigation, UI XML, mengetahui jadwal sholat sederhana.
 
+## Click Up ##
+
+<img width="959" height="574" alt="image" src="https://github.com/user-attachments/assets/ead54219-f8dc-40f8-b749-e2cd315803e4" />
+
+LINK CLICK UP : https://app.clickup.com/90181768472/v/g/2kzm158r-638
+
