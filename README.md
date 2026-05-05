@@ -65,3 +65,26 @@ Aplikasi ini dibuat untuk memenuhi kebutuhan tugas perkuliahan dengan menerapkan
 
 LINK CLICK UP : https://app.clickup.com/90181768472/v/g/2kzm158r-638
 
+## UI ##
+
+# 1. #
+
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-05 at 19 28 51" src="https://github.com/user-attachments/assets/f57918bc-442e-4e05-b485-7cb5e262c3ec" />
+
+# 2. # 
+
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-05 at 19 28 51 (1)" src="https://github.com/user-attachments/assets/46e8cf33-98fe-4179-bc34-06da13b52877" />
+ 
+# 3. #
+ 
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-05 at 19 28 52" src="https://github.com/user-attachments/assets/dc265606-0cad-414c-9c96-d138237b71dc" />
+ 
+# 4. #
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-05 at 19 28 53" src="https://github.com/user-attachments/assets/f3bde15b-ce86-4b32-9201-a00db55c7e10" />
+
+# 5. #
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-05 at 19 28 53 (1)" src="https://github.com/user-attachments/assets/051881d0-d5b2-4711-abf4-cf8530fe7af8" />
+
+
